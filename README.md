@@ -1,3 +1,5 @@
+<img src="https://github.com/Claudia1010/Laravel-Project-LFG/blob/main/public/img/geekhubs.png">
+
 # PROYECTO WEB RESTAURANTE
 
 ![imagen](https://user-images.githubusercontent.com/104777144/168767577-27481901-3a7b-4c54-9c88-ed9a604c01bb.png)
